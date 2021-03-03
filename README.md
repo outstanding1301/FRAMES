@@ -22,3 +22,6 @@
 - [ResNet을 이용한 얼굴 인식 기반 출입관리시스템 개발](http://koreascience.or.kr/article/JAKO201925454133857.page)
 - [Masked Face Recognition Dataset and Application](https://arxiv.org/abs/2003.09093)
 - [GroupFace by kakao](https://tech.kakaoenterprise.com/63)
+
+
+- [2020 졸작 보고서 예제](https://github.com/KPU-Tmemo/KPU-Tmemo/tree/master/2020)
